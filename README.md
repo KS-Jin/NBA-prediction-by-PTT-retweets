@@ -25,13 +25,14 @@
  而在得分方面則有些許誤差  
  
 ## 分析結果2
-![image](https://github.com/KS-Jin/NBA-prediction-by-PTT-retweets/blob/master/pic/pic2.JPG)
+![image](https://github.com/KS-Jin/NBA-prediction-by-PTT-retweets/blob/master/pic/pic2.JPG)  
 使用這樣的結果在國際賭盤上來預測大小讓分  
 比起單純預測得分比還更加準確  
 
 ## 其他資料
 火箭隊季後賽推文情況 [rockets_west.csv](https://github.com/KS-Jin/NBA-prediction-by-PTT-retweets/blob/master/rockets_west.csv)  
 勇士隊季後賽推文情況 [warriors_west.csv](https://github.com/KS-Jin/NBA-prediction-by-PTT-retweets/blob/master/warriors_west.csv)  
-報告文檔 [鄉民來幫忙之運動競賽比分預測系統.pdf] (https://github.com/KS-Jin/NBA-prediction-by-PTT-retweets/blob/master/%E9%84%89%E6%B0%91%E4%BE%86%E5%B9%AB%E5%BF%99%E4%B9%8B%E9%81%8B%E5%8B%95%E7%AB%B6%E8%B3%BD%E6%AF%94%E5%88%86%E9%A0%90%E6%B8%AC%E7%B3%BB%E7%B5%B1.pdf)  
+報告文檔 [鄉民來幫忙之運動競賽比分預測系統.pdf](https://github.com/KS-Jin/NBA-prediction-by-PTT-retweets/blob/master/%E9%84%89%E6%B0%91%E4%BE%86%E5%B9%AB%E5%BF%99%E4%B9%8B%E9%81%8B%E5%8B%95%E7%AB%B6%E8%B3%BD%E6%AF%94%E5%88%86%E9%A0%90%E6%B8%AC%E7%B3%BB%E7%B5%B1.pdf)  
+
 
  
